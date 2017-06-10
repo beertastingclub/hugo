@@ -27,10 +27,16 @@ theme = "hugo-tranquilpeak-theme"
   weight = 1
   identifier = "reports"
   name = "Rapports"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/categories/reports"
 [[menu.main]]
   weight = 2
+  identifier = "categories"
+  name = "Categories"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+  url = "/categories"
+[[menu.main]]
+  weight = 3
   identifier = "tags"
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
@@ -42,7 +48,7 @@ theme = "hugo-tranquilpeak-theme"
   # You must use date format used by Go Time package https://golang.org/pkg/time/
   # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
   # Default format is: January 2, 2006 
-  dateFormat = "2 January 2006"
+  dateFormat = "2 january 2006"
 
   # Global keywords configuration. Following keywords will be add to every pages
   # keywords = ["development", "next-gen"]
