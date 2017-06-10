@@ -1,6 +1,6 @@
 ---
 date: 2017-06-10T17:38:34+02:00
-title: Resources sur la dégustation
+title: Ressources sur la dégustation
 categories:
     - docs
 showDate: false
