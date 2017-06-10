@@ -18,12 +18,6 @@ theme = "hugo-tranquilpeak-theme"
 
 # Menu Configuration
 [[menu.main]]
-  weight = 0
-  identifier = "home"
-  name = "Home"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-  url = "/"
-[[menu.main]]
   weight = 1
   identifier = "reports"
   name = "Rapports"
@@ -41,6 +35,19 @@ theme = "hugo-tranquilpeak-theme"
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "/tags"
+[[menu.main]]
+  weight = 5
+  identifier = "about"
+  name = "À propos"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+  url = "/page/about"
+
+[[menu.links]]
+  weight = 0
+  identifier = "facebook"
+  name = "Facebook"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-facebook\"></i>"
+  url = "https://www.facebook.com/groups/375972799460320/"
 
 [params]
   defaultContentLanguage = "fr-fr"
