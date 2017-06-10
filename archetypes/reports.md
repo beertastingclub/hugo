@@ -9,11 +9,9 @@ tags:
     - bottle share
 showSocial: false
 
-thumbnailImage: /images/session1_min.jpg
+autoThumbnailImage: yes
 coverImage: /images/session1.jpg
 coverMeta: out
-gallery:
-    - /images/session1.jpg
 
 ---
 
@@ -33,4 +31,3 @@ gallery:
 
 **Cantillon - Carignan** : Tout le monde est subjugué par l'intensité de la bière et reconnaît clairement une "top gueuze". On hésite entre Cantillon et 3 Fontaines. On pense à un fruit rouge, qui semble un peu trop mûr d'après moi.
 
--
