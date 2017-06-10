@@ -21,10 +21,16 @@ theme = "hugo-tranquilpeak-theme"
   weight = 1
   identifier = "reports"
   name = "Rapports"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-camera-retro\"></i>"
   url = "/categories/reports"
 [[menu.main]]
   weight = 2
+  identifier = "docs"
+  name = "Documents"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-book\"></i>"
+  url = "/categories/docs"
+[[menu.main]]
+  weight = 3
   identifier = "categories"
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
