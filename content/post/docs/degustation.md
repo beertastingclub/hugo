@@ -12,6 +12,8 @@ showTags: false
 
 Quelques liens utiles pour apprendre à déguster ou organiser des dégustations.
 
+<!--more-->
+
 [How to Conduct a Successful and Fun Beer Tasting Event (PDF)](http://beerappreciation.com/HowtoBeerTasting.pdf)
 
 [Beer Criticism: Are you doing it wrong?](http://allaboutbeer.com/article/beer-criticism-are-you-doing-it-wrong/)
