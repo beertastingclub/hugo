@@ -10,9 +10,6 @@ tags:
 showSocial: false
 
 thumbnailImage: /images/session1_min.jpg
-coverImage: /images/session1.jpg
-coverMeta: out
-clearReading: true
 gallery:
     - /images/session1.jpg
 
