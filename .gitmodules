@@ -1,6 +1,6 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/beertastingclub/beertastingclub.github.io.git
+	url = git@github.com:beertastingclub/beertastingclub.github.io.git
 	branch = master
 [submodule "themes/hugo-tranquilpeak-theme"]
   path = themes/hugo-tranquilpeak-theme
