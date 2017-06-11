@@ -10,9 +10,11 @@ showTags: false
 
 ---
 
-Quelques liens utiles pour apprendre à déguster ou organiser des dégustations.
+Quelques liens utiles pour apprendre à déguster et organiser des dégustations.
 
 <!--more-->
+
+[BJCP Style Guidelines, référence mondiale des styles de bière](https://www.bjcp.org/stylecenter.php)
 
 [How to Conduct a Successful and Fun Beer Tasting Event (PDF)](http://beerappreciation.com/HowtoBeerTasting.pdf)
 
