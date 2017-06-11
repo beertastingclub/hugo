@@ -3,6 +3,7 @@ categories:
     - reports
 coverImage: /images/session2.jpg
 coverMeta: out
+clearReading: true
 date: 2017-06-10T16:34:50+02:00
 showSocial: false
 tags:
